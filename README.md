@@ -1,1 +1,1 @@
-# Predicting-customer_churn_from_a_company.
+# Predicting customer сhurn from a company.
